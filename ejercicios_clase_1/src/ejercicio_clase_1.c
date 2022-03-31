@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : ejercicio_clase_1.c
+ Name        : ejercicios_clase_1.c
  Author      : Ali, Pablo Sharif
  Version     :
  Copyright   : Your copyright notice
@@ -39,7 +39,8 @@ int main(void) {
 		printf("Su sueldo es de $%.2f", sueldo);
 	}
 
+	//Ejercicio C
+
 	return EXIT_SUCCESS;
 
-	//Ejercicio C
 }
